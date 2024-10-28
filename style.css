@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: helvetica;
+    width: 100%;
 }
 
 .navbar {
@@ -20,10 +21,10 @@ a {
 }
 /* NAVBAR CSS */
 
-body {
+/*body {
     display: flex;
     align-content: center;
-}
+}*/
 
 .difficulty {
     display: flex;
