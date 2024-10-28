@@ -15,3 +15,7 @@ fetch(apiUrl)
 .catch(error => {
   console.error('Error:', error);
 });
+
+function asdf() {
+    console.log('test')
+}
