@@ -19,19 +19,3 @@ a {
     color: white;
 }
 /* NAVBAR CSS */
-
-body {
-    display: flex;
-    align-content: center;
-}
-
-.difficulty {
-    display: flex;
-    flex-direction: column;
-}
-
-.type {
-    display: flex;
-    flex-direction: column;
-}
-
